@@ -1,8 +1,5 @@
 # Discord bot with python
 ## Content
-    What Discord is
-    Why discord.py is so valuable
-    How to make a Discord bot in the Developer Portal
     How to create a Discord connection in Python
     How to handle events
     How to create a Bot connection
